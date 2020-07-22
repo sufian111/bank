@@ -1,0 +1,29 @@
+.box{
+    box-shadow: 2px 2px 19px gray;
+}
+#two{
+    display: none;
+}
+.x{
+    background-color: slateblue;
+}
+.y{
+    background-color: lightsalmon;
+}
+.z{
+    background-color: orange;
+    
+}
+.all{
+    margin: 0px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.submite{
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-top: 50px;
+}
